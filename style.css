@@ -77,4 +77,17 @@ img{
     border-bottom: 1px solid red;
     width: 130px;
    margin-bottom: 20px;
+   
+}
+.third-section{
+    text-align:center ;
+    background-color: rgb(52, 52, 89);
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.third-first-div{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
