@@ -91,3 +91,47 @@ img{
     padding-bottom: 50px;
     font-family: 'Times New Roman', Times, serif;
 }
+.third-section{
+    text-align: center;
+    background-color: rgb(28, 10, 45);
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.third-first-div{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.extra-div{
+    border-bottom: 1px solid red;
+    width: 140px;
+    margin-bottom: 40px;
+    margin-left:570px;
+    
+}
+.third-second-div img{
+    width: 70px;
+    height: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+}
+.third-second-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+
+}
+.third-second-div h6{
+    color: white;
+    font-size: 25px;
+}
+.extra-div{
+    border-bottom: 1px solid red;
+    width: 140px;
+    margin-bottom: 40px;
+    margin-left:570px;
+
+}
